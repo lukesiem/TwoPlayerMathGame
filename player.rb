@@ -13,7 +13,7 @@ class Player
 	end 
 
 	def youlose 
-		@life == 0
+		@lives == 0
 	end
 end
 
